@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ola eu sou Felipe 👋
 
-<!--
-**feliperps/feliperps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 "hoje trabalho com a linguagem de Python
+- 🌱 "estudando tecnico em IA em senac SP
+- 📧 " email contate me no email - felipe.r.p.s2005@gmail.com
 
-Here are some ideas to get you started:
+ <div>
+  <a href="https://github.com/feliperps">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliperps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperps&layout=compact&langs_count=16&theme=dracula"/>
+  </div>
+  ##
+  </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicomaster/icons/python/python-original.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+  </div>
+    <a href="https://www.linkedin.com/in/feliperps-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/feliperps/feliperps/blob/output/github-contribution-grid-snake.svg)
+
