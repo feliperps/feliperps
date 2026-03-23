@@ -1,9 +1,9 @@
-# Ola eu sou Felipe 👋
+# Hi, I’m Felipe👋
 
-- 🔭 "hoje trabalho com a linguagem de Python
-- 🌱 "estudando tecnico em IA em senac SP
-- 📧 " email contate me no email - felipe.r.p.s2005@gmail.com
-- 🔗 "procurando me desenvolver na area de tecnologia
+- 🔭 "I currently work with Python"
+- 🌱 "Studying AI Technical Course at SENAC SP"
+- 📧 "Contact me via email: felipe.r.p.s2005@gmail.com"
+- 🔗 "Looking to grow and develop in the technology field"
  
  
  <div>
