@@ -3,7 +3,7 @@
 - 🔭 "hoje trabalho com a linguagem de Python
 - 🌱 "estudando tecnico em IA em senac SP
 - 📧 " email contate me no email - felipe.r.p.s2005@gmail.com
--🔗 "procurando me desenvolver na area de tecnologia
+- 🔗 "procurando me desenvolver na area de tecnologia
  
  
  <div>
