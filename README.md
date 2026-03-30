@@ -16,4 +16,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicomaster/icons/python/python-original.svg">
   
-  ![Snake animation](https://github.com/feliperps/feliperps/blob/output/github-contribution-grid-snake.svg)
+ ##
+
+ <img src="https://raw.githubusercontent.com/wallyharris/wallyharris/output/snake.svg" alt="Snake animation" />
+
